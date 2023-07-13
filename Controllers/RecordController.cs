@@ -99,6 +99,7 @@ namespace NataliRecords.Controllers
 
         [HttpGet]
         [Authorize(Roles = "Admin")]
+        [ValidateAntiForgeryToken]
         public ActionResult Update(int? id)
         {
 
@@ -119,6 +120,7 @@ namespace NataliRecords.Controllers
 
         [HttpPost]
         [Authorize(Roles = "Admin")]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Update(Record record)
         {
 
@@ -131,6 +133,7 @@ namespace NataliRecords.Controllers
 
 
         [Authorize(Roles = "Admin")]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
             var record = _db.Records.FirstOrDefault(c => c.Id == id);
