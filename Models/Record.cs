@@ -19,12 +19,12 @@ namespace NataliRecords.Models
 
         [Display(Name = "Title of Song")]
         [Required]
-        [MaxLength(500, ErrorMessage = "Description cannot exceed 500 characters")]
+        [MaxLength(50, ErrorMessage = "Description cannot exceed 500 characters")]
         public string Title { get; set; }
 
         [Display(Name = "Genre")]
         [Required]
-        [MaxLength(500, ErrorMessage = "Description cannot exceed 500 characters")]
+        [MaxLength(50, ErrorMessage = "Description cannot exceed 500 characters")]
         public string Genre { get; set; }
     }
 }
