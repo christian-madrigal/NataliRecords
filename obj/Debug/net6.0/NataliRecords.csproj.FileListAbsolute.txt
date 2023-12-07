@@ -1448,3 +1448,4 @@ C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Debug\net6.0\refint\NataliRec
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Debug\net6.0\NataliRecords.pdb
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Debug\net6.0\NataliRecords.genruntimeconfig.cache
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Debug\net6.0\ref\NataliRecords.dll
+C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Debug\net6.0\NataliRecords.sourcelink.json
