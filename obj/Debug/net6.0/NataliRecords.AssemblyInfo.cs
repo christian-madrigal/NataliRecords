@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NataliRecords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8750c7bc0b76f407dede347a8501eaca9f9730e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31e5c112bdc24a7c74d21e4c8c978bdb2b99249c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NataliRecords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NataliRecords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

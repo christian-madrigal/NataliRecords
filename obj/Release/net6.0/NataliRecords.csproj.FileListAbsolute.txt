@@ -282,9 +282,10 @@ C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\staticwebasset
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\scopedcss\bundle\NataliRecords.styles.css
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\scopedcss\projectbundle\NataliRecords.bundle.scp.css
-C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\NataliRecords.csproj.CopyComplete
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\NataliRecords.dll
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\refint\NataliRecords.dll
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\NataliRecords.pdb
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\NataliRecords.genruntimeconfig.cache
 C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\ref\NataliRecords.dll
+C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\NataliRecords.sourcelink.json
+C:\Users\Natali\Documents\GitHub\NataliRecords\obj\Release\net6.0\NataliRe.09A0B4EC.Up2Date
