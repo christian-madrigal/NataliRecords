@@ -46,8 +46,7 @@
               "RelativeToolTip": "Models\\Record.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-13T00:30:53.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-07-13T00:30:53.175Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Views\\Record\\Index.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAD4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-02-22T02:51:41.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-02-22T02:51:41.618Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
               "RelativeDocumentMoniker": "Controllers\\RecordController.cs",
               "ToolTip": "C:\\Users\\Natali\\Documents\\GitHub\\NataliRecords\\Controllers\\RecordController.cs",
               "RelativeToolTip": "Controllers\\RecordController.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIsAAAAnAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-02-22T01:36:17.076Z",
               "EditorCaption": ""
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-02-22T01:36:17.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-02-22T01:36:17.379Z"
             },
             {
               "$type": "Document",
