@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natali\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj": {}
+    "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natali\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj": {
+    "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natali\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj",
+        "projectUniqueName": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj",
         "projectName": "NataliRecords",
-        "projectPath": "C:\\Users\\Natali\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj",
+        "projectPath": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj",
         "packagesPath": "C:\\Users\\Natali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natali\\Documents\\GitHub\\NataliRecords\\obj\\",
+        "outputPath": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
