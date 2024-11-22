@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -48,9 +44,10 @@
               "RelativeDocumentMoniker": "Models\\Record.cs",
               "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Models\\Record.cs",
               "RelativeToolTip": "Models\\Record.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-13T00:30:53.175Z"
+              "WhenOpened": "2023-07-13T00:30:53.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,9 +57,10 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-02-22T03:17:37.655Z"
+              "WhenOpened": "2023-02-22T03:17:37.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +70,7 @@
               "RelativeDocumentMoniker": "Views\\Record\\Index.cshtml",
               "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Views\\Record\\Index.cshtml",
               "RelativeToolTip": "Views\\Record\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2023-02-22T02:51:41.618Z",
               "EditorCaption": ""
@@ -85,9 +83,10 @@
               "RelativeDocumentMoniker": "Controllers\\RecordController.cs",
               "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\RecordController.cs",
               "RelativeToolTip": "Controllers\\RecordController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-02-22T01:36:17.076Z"
+              "WhenOpened": "2023-02-22T01:36:17.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,9 +96,10 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-02-22T01:36:17.379Z"
+              "WhenOpened": "2023-02-22T01:36:17.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,9 +109,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-02-22T01:36:17.383Z"
+              "WhenOpened": "2023-02-22T01:36:17.383Z",
+              "EditorCaption": ""
             }
           ]
         }

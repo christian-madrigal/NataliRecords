@@ -178,7 +178,7 @@
     },
     {
       "Id": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NataliRecords.bundle.scp.css",
-      "PackagePath": "staticwebassets\\NataliRecords.bundle.scp.css"
+      "PackagePath": "staticwebassets\\NataliRecords.by55vugf03.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\wwwroot\\android-chrome-192x192.png",
@@ -451,6 +451,10 @@
     {
       "Id": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\wwwroot\\site.webmanifest",
       "PackagePath": "staticwebassets\\site.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NataliRecords.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NataliRecords.Microsoft.AspNetCore.StaticWebAssets.props",
