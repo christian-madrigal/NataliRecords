@@ -1336,13 +1336,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\NataliRecords.by55vugf03.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ndvvdFWC7a37lgaAcPM8WOrA/GCm\u002BR5QqQjgpwQDu88="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ndvvdFWC7a37lgaAcPM8WOrA/GCm\u002BR5QqQjgpwQDu88=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Jan 2025 08:13:13 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ndvvdFWC7a37lgaAcPM8WOrA/GCm\u002BR5QqQjgpwQDu88=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jan 2025 05:26:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/NataliRecords/NataliRecords.by55vugf03.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\NataliRecords.by55vugf03.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"by55vugf03"},{"Name":"integrity","Value":"sha256-ndvvdFWC7a37lgaAcPM8WOrA/GCm\u002BR5QqQjgpwQDu88="},{"Name":"label","Value":"_content/NataliRecords/NataliRecords.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ndvvdFWC7a37lgaAcPM8WOrA/GCm\u002BR5QqQjgpwQDu88=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Jan 2025 08:13:13 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ndvvdFWC7a37lgaAcPM8WOrA/GCm\u002BR5QqQjgpwQDu88=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jan 2025 05:26:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/NataliRecords/site.6sx6pifph3.webmanifest">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\site.webmanifest'))</AssetFile>

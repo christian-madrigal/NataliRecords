@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\views\\record\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:views\\record\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\views\\record\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:views\\record\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|c:\\users\\natali\\onedrive\\documents\\github\\natalirecords\\natalirecords.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{242D57B8-A17C-4193-8F5C-9A9C05E9F9AA}|NataliRecords.csproj|solutionrelative:natalirecords.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,36 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Record.cs",
-              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Models\\Record.cs",
-              "RelativeDocumentMoniker": "Models\\Record.cs",
-              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Models\\Record.cs",
-              "RelativeToolTip": "Models\\Record.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-13T00:30:53.175Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Views\\Record\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Record\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Views\\Record\\Create.cshtml",
+              "RelativeToolTip": "Views\\Record\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T05:36:26.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-02-22T03:17:37.655Z"
+              "DocumentIndex": 0,
+              "Title": "RecordController.cs",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\RecordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecordController.cs",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\RecordController.cs",
+              "RelativeToolTip": "Controllers\\RecordController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:31:10.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Views\\Record\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Record\\Index.cshtml",
@@ -71,43 +68,33 @@
               "RelativeToolTip": "Views\\Record\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-02-22T02:51:41.618Z"
+              "WhenOpened": "2025-01-17T05:29:50.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecordController.cs",
-              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\RecordController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RecordController.cs",
-              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\RecordController.cs",
-              "RelativeToolTip": "Controllers\\RecordController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-02-22T01:36:17.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-02-22T01:36:17.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-02-22T01:36:17.383Z",
+              "WhenOpened": "2025-01-17T05:19:01.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NataliRecords.csproj",
+              "DocumentMoniker": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj",
+              "RelativeDocumentMoniker": "NataliRecords.csproj",
+              "ToolTip": "C:\\Users\\Natali\\OneDrive\\Documents\\GitHub\\NataliRecords\\NataliRecords.csproj",
+              "RelativeToolTip": "NataliRecords.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T04:30:27.445Z",
               "EditorCaption": ""
             }
           ]
