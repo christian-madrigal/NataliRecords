@@ -1,4 +1,4 @@
-
+using Azure.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using NataliRecords.DB_Data;
@@ -7,12 +7,22 @@ using IdentityRole = Microsoft.AspNetCore.Identity.IdentityRole;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Configure Azure Key Vault
+var keyVaultName = builder.Configuration["KeyVaultName"];
+if (!string.IsNullOrEmpty(keyVaultName))
+{
+    var KeyVaultUri = new Uri($"https://{keyVaultName}.vault.azure.net/");
+    builder.Configuration.AddAzureKeyVault(KeyVaultUri, new DefaultAzureCredential());
+}
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 //builder.Services.AddScoped<IData, Data>();
 builder.Services.AddSession();
 builder.Services.AddDbContext<ApplicationDbContext>(
-        options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
+        options => options.UseSqlServer(builder.Configuration["RecordsConnection"]));
+//builder.Services.AddDbContext<ApplicationDbContext>(
+        //options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
 builder.Services.AddIdentity<Customer, IdentityRole>(options =>
 {
     options.Password.RequiredLength = 8;

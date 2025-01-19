@@ -1712,3 +1712,12 @@ C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\obj\Debug\net6.0\refint\
 C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\obj\Debug\net6.0\NataliRecords.pdb
 C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\obj\Debug\net6.0\NataliRecords.genruntimeconfig.cache
 C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\obj\Debug\net6.0\ref\NataliRecords.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Natali\OneDrive\Documents\GitHub\NataliRecords\bin\Debug\net6.0\System.Text.Json.dll
